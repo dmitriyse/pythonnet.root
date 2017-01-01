@@ -1,0 +1,7 @@
+[submodule "subprojects/ClrCoder"]
+	path = subprojects/ClrCoder
+	url = https://github.com/dmitriyse/ClrCoder.git
+[submodule "subprojects/pythonnet"]
+	path = subprojects/pythonnet
+	url = https://github.com/dmitriyse/pythonnet.git
+	branch = coreclr
